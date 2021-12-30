@@ -1,0 +1,11 @@
+.top {
+  position: relative;
+  background-color: red;
+}
+
+.prva_slika{
+  position: absolute;
+  right: 50px;
+  width: 150px;
+  height: 150px;
+}
